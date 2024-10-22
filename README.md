@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 - ℹ️ More information: [https://koichiito.com/](https://koichiito.com/)
 - ✅ Check out my Python package for street view imagery analysis: [ZenSVI](https://github.com/koito19960406/ZenSVI)
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logo_zensvi_white2.png">
-    <img src="logo_zensvi_fixed 2.png" alt="ZenSVI logo" width="400">
-  </picture>
+  <a href="https://github.com/koito19960406/ZenSVI">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="logo_zensvi_white2.png">
+      <img src="logo_zensvi_fixed 2.png" alt="ZenSVI logo" width="400">
+    </picture>
+  </a>
 </p>
 </br>
 
