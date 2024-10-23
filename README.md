@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ### 📚 Recent Publications
 
 📝 Under Review:
-- Ito, K., et al. (2024). ZenSVI: An Open-Source Software for Integrated Acquisition, Processing and Analysis of Street View Imagery. Computers, Environment and Urban Systems.
+- Ito, K., et al. (2024). ZenSVI: An Open-Source Software for Integrated Acquisition, Processing and Analysis of Street View Imagery.
 
 🔬 Published:
 - Ito, K., Bansal, P., & Biljecki, F. (2024). Examining the causal impacts of the built environment on active transportation using time-series street view imagery. Transportation Research Part A: Policy and Practice. https://doi.org/10.1016/j.tra.2024.104286
