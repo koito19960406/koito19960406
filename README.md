@@ -41,10 +41,11 @@ Here are some ideas to get you started:
 
 ### 📚 Recent Publications
 
-📝 Under Review:
-- Ito, K., et al. (2024). ZenSVI: An Open-Source Software for Integrated Acquisition, Processing and Analysis of Street View Imagery.
-
 🔬 Published:
+- Ito, K., Terra, R., Costa, M., Siebert, F. W., Garrido-Valenzuela, F., Azevedo, C. L., Biljecki, F., & van Cranenburgh, S. (2026). Perceived traffic safety's impact on cycling route choice with street-level images. Transportation. https://doi.org/10.1007/s11116-026-10793-z
+
+- Ito, K., et al. (2025). ZenSVI: An open-source software for the integrated acquisition, processing and analysis of street view imagery towards scalable urban science. Computers, Environment and Urban Systems, 102283. https://doi.org/10.1016/j.compenvurbsys.2025.102283
+
 - Ito, K., Bansal, P., & Biljecki, F. (2024). Examining the causal impacts of the built environment on active transportation using time-series street view imagery. Transportation Research Part A: Policy and Practice. https://doi.org/10.1016/j.tra.2024.104286
 
 - Ito, K., Quintana, M., Han, X., Zimmermann, R., & Biljecki, F. (2024). Translating street view imagery to correct perspectives to enhance bikeability and walkability studies. International Journal of Geographical Information Science. https://doi.org/10.1080/13658816.2024.2391969
@@ -56,12 +57,6 @@ Here are some ideas to get you started:
 - Hou, Y., et al. (Ito, K.) (2024). Global Streetscapes – A comprehensive dataset of millions of street-level images over 700 cities for urban science and analytics. ISPRS Journal of Photogrammetry and Remote Sensing, 215. https://doi.org/10.1016/j.isprsjprs.2024.06.023
 
 - Wang, S., et al. (Ito, K.) (2024). Mapping the landscape and roadmap of geospatial artificial intelligence (GeoAI) in quantitative human geography: An extensive systematic review. International Journal of Applied Earth Observations and Geoinformation, 128, 103734. https://doi.org/10.1016/j.jag.2024.103734
-
-- Wang, Z., Ito, K., & Biljecki, F. (2023). Assessing the equity and evolution of urban visual perceptual quality with time series street view imagery. Cities, 145, 104704. https://doi.org/10.1016/j.cities.2023.104704
-
-- Ito, K., & Biljecki, F. (2021). Assessing bikeability with street view imagery and computer vision. Transportation Research Part C: Emerging Technologies, 132, 103371. https://doi.org/10.1016/j.trc.2021.103371
-
-- Biljecki, F., & Ito, K. (2021). Street view imagery in urban analytics and GIS: A review. Landscape and Urban Planning, 215, 104217. https://doi.org/10.1016/j.landurbplan.2021.104217
 
 
 ### 📈 GitHub Stats
